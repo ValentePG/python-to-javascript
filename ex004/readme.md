@@ -1,0 +1,1 @@
+## Retorna o typeof do que foi digitado pelo Usuário
