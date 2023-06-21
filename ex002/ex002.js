@@ -1,6 +1,6 @@
 function enviarNome(){
-  let nome = document.getElementById('nome')
-  let res = document.getElementById('res')
+  const nome = document.getElementById('nome')
+  const res = document.getElementById('res')
 
   if(nome.value.length == 0){
     alert('Digite seu nome Por Favor!')
